@@ -1,2 +1,5 @@
 # rust-practice
-Just Going to Practice Rust for no reason (cuz why not) :)
+每天學習 rust
+
+## 學習資料
+[Rust 程序設計語言](https://doc.rust-lang.org/book/title-page.html)
